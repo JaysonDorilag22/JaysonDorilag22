@@ -1,6 +1,10 @@
 ## Hi there 👋
-[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uGlwCZetP4hcrS2ysZLsckcqebZ72)](https://gitroll.io/profile/uGlwCZetP4hcrS2ysZLsckcqebZ72)
-[![GitRoll Stacks Badge](https://gitroll.io/api/badges/stacks/v1/uGlwCZetP4hcrS2ysZLsckcqebZ72)](https://gitroll.io/profile/uGlwCZetP4hcrS2ysZLsckcqebZ72/stacks)
+<a href="https://gitroll.io/profile/uGlwCZetP4hcrS2ysZLsckcqebZ72" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uGlwCZetP4hcrS2ysZLsckcqebZ72" alt="GitRoll Profile Badge"/>
+</a>
+<a href="https://gitroll.io/profile/uGlwCZetP4hcrS2ysZLsckcqebZ72/stacks" target="_blank">
+    <img src="https://gitroll.io/api/badges/stacks/v1/uGlwCZetP4hcrS2ysZLsckcqebZ72" alt="GitRoll Stacks Badge"/>
+</a>
 
 <!--
 **JaysonDorilag22/JaysonDorilag22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
