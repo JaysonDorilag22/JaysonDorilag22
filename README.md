@@ -1,7 +1,4 @@
 ## Hi there 👋
-<a href="https://gitroll.io/profile/uGlwCZetP4hcrS2ysZLsckcqebZ72" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uGlwCZetP4hcrS2ysZLsckcqebZ72" alt="GitRoll Profile Badge"/>
-</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaysonDorilag22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
