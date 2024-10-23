@@ -5,6 +5,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaysonDorilag22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+
 <!--
 **JaysonDorilag22/JaysonDorilag22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
