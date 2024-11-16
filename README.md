@@ -1,173 +1,119 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jayson Dorilag's Profile</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- For Sun/Moon Icons -->
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+## 👋 Hi, I'm Jayson Dorilag
 
-    body {
-      font-family: 'Arial', sans-serif;
-      transition: background-color 0.3s ease, color 0.3s ease;
-    }
+I’m a 4th-year BSIT student from **TUP Taguig**, specializing in **MERN stack development**. I enjoy building user-friendly applications that solve real-world problems.
 
-    .light-theme {
-      background-color: #f4f4f9;
-      color: #333;
-    }
+---
 
-    .dark-theme {
-      background-color: #333;
-      color: #f4f4f9;
-    }
+### 🛠️ Tech Stack
 
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 20px;
-    }
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 10px; background-color: #f9f9f9; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" alt="React" />
+        <br>React
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" alt="Express.js" />
+        <br>Express.js
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" alt="npm" />
+        <br>npm
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5" />
+        <br>HTML5
+      </td>
+    </tr>
+  </table>
+</div>
 
-    header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 20px 0;
-    }
+---
 
-    h1 {
-      font-size: 1.5rem;
-    }
+### 🌱 Currently Learning
 
-    .theme-toggle {
-      font-size: 1.5rem;
-      cursor: pointer;
-    }
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 10px; background-color: #f9f9f9; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" alt="Firebase" />
+        <br>Firebase
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" width="50" alt="Socket.IO" />
+        <br>Socket.IO
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="50" alt="Cloud Messaging" />
+        <br>Cloud Messaging
+      </td>
+    </tr>
+  </table>
+</div>
 
-    .tech-stack img {
-      width: 40px;
-      margin: 0 15px;
-    }
+---
 
-    .tech-stack {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin-top: 30px;
-    }
+### 💡 Other Skills
 
-    .current-project a {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #0A4D68;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-top: 20px;
-    }
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 10px; background-color: #f9f9f9; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" alt="Canva" />
+        <br>Canva
+      </td>
+    </tr>
+  </table>
+</div>
 
-    .stats img {
-      width: 100%;
-    }
+---
 
-    footer {
-      text-align: center;
-      margin-top: 40px;
-    }
+### 📫 Let's Connect!
 
-    .contact-icons img {
-      width: 40px;
-      margin: 0 10px;
-      cursor: pointer;
-    }
-
-    .footer-wave img {
-      width: 50px;
-      margin-top: 20px;
-    }
-
-    .minimalist {
-      text-align: center;
-    }
-
-    .minimalist img {
-      width: 150px;
-    }
-  </style>
-</head>
-<body class="light-theme">
-
-  <div class="container">
-    <header>
-      <h1>👋 Hi there, I'm Jayson Dorilag</h1>
-      <div class="theme-toggle" onclick="toggleTheme()">
-        <i id="theme-icon" class="fas fa-sun"></i> <!-- Default to Sun Icon -->
-      </div>
-    </header>
-
-    <div class="minimalist">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A4D68&width=435&lines=MERN+Stack+Developer;Web+%26+Mobile+App+Builder;Passionate+About+Problem-Solving" alt="Typing SVG">
-    </div>
-
-    <section class="tech-stack">
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" alt="Postman">
-    </section>
-
-    <section class="current-project">
-      <h3>🌟 Current Project</h3>
-      <a href="https://github.com/JaysonDorilag22/AgapayAlert">
-        <p>A missing person reporting app inspired by Amber Alert, focusing on community safety and real-time notifications.</p>
-      </a>
-    </section>
-
-    <footer>
-      <h3>📫 Let's Connect!</h3>
-      <div class="contact-icons">
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 10px; background-color: #f9f9f9; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
         <a href="mailto:your-email@example.com">
-          <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=ffffff" alt="Gmail Logo">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Email" />
         </a>
+        <br>Email
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
         <a href="https://github.com/JaysonDorilag22">
-          <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=ffffff" alt="GitHub Logo">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" alt="GitHub" />
         </a>
+        <br>GitHub
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; transition: transform 0.3s;">
         <a href="https://www.linkedin.com/in/your-linkedin-profile">
-          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=ffffff" alt="LinkedIn Logo">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="50" alt="LinkedIn" />
         </a>
-      </div>
-
-      <div class="footer-wave">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave" />
-      </div>
-    </footer>
-  </div>
-
-  <script>
-    function toggleTheme() {
-      const body = document.body;
-      const icon = document.getElementById('theme-icon');
-
-      if (body.classList.contains('light-theme')) {
-        body.classList.remove('light-theme');
-        body.classList.add('dark-theme');
-        icon.classList.remove('fa-sun');
-        icon.classList.add('fa-moon');
-      } else {
-        body.classList.remove('dark-theme');
-        body.classList.add('light-theme');
-        icon.classList.remove('fa-moon');
-        icon.classList.add('fa-sun');
-      }
-    }
-  </script>
-</body>
-</html>
+        <br>LinkedIn
+      </td>
+    </tr>
+  </table>
+</div>
