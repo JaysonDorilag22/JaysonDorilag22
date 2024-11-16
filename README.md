@@ -69,13 +69,13 @@ I'm a 4th-year BSIT student at **TUP Taguig**, specializing in **MERN stack deve
 ### 📫 Let's Connect!
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/ios-filled/50/0A4D68/gmail-new.png" alt="Gmail Logo" width="50"/>
+    <img src="[https://img.icons8.com/ios-filled/50/0A4D68/gmail-new.png](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000)" alt="Gmail Logo" width="50"/>
   </a>
   <a href="https://github.com/JaysonDorilag22">
-    <img src="https://img.icons8.com/ios-filled/50/0A4D68/github.png" alt="GitHub Logo" width="50"/>
+    <img src="[https://img.icons8.com/ios-filled/50/0A4D68/github.png](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000)" alt="GitHub Logo" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.icons8.com/ios-filled/50/0A4D68/linkedin.png" alt="LinkedIn Logo" width="50"/>
+    <img src="[https://img.icons8.com/ios-filled/50/0A4D68/linkedin.png](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" alt="LinkedIn Logo" width="50"/>
   </a>
 </div>
 
