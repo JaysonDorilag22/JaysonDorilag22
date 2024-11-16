@@ -12,48 +12,50 @@ I'm a 4th-year BSIT student at **TUP Taguig**, specializing in the **MERN stack*
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td><b>🛠️ Tech Stack</b></td>
-      <td><b>🌱 Currently Learning</b></td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>Frontend: React, JavaScript, HTML, CSS</li>
-          <li>Backend: Node.js, Express.js</li>
-          <li>Database: MongoDB</li>
-          <li>Mobile: React Native</li>
-          <li>Tools: Git, Postman, npm</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>React Native for Mobile Development</li>
-          <li>Socket.IO for Real-Time Features</li>
-          <li>Cloud Messaging and Notifications</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+    <div style="background: #f5f5f5; border-radius: 15px; padding: 20px; width: 300px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+      <h3 align="center">🛠️ Tech Stack</h3>
+      <ul>
+        <li>Frontend: React, JavaScript, HTML, CSS</li>
+        <li>Backend: Node.js, Express.js</li>
+        <li>Database: MongoDB</li>
+        <li>Mobile: React Native</li>
+        <li>Tools: Git, Postman, npm</li>
+      </ul>
+    </div>
+
+    <div style="background: #f5f5f5; border-radius: 15px; padding: 20px; width: 300px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+      <h3 align="center">🌱 Currently Learning</h3>
+      <ul>
+        <li>React Native for Mobile Development</li>
+        <li>Socket.IO for Real-Time Features</li>
+        <li>Cloud Messaging and Notifications</li>
+      </ul>
+    </div>
+
+  </div>
 </div>
 
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>🌟 Current Project</b><br>
-        <a href="https://github.com/JaysonDorilag22/AgapayAlert">Agapay Alert</a><br>
-        <span>A missing person reporting app inspired by Amber Alert.</span>
-      </td>
-      <td align="center">
-        <b>📊 GitHub Stats</b><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=JaysonDorilag22&show_icons=true&theme=radical" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+    <div style="background: #f5f5f5; border-radius: 15px; padding: 20px; width: 300px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+      <h3 align="center">🌟 Current Project</h3>
+      <p align="center">
+        <a href="https://github.com/JaysonDorilag22/AgapayAlert"><b>Agapay Alert</b></a><br>
+        A missing person reporting app inspired by Amber Alert.
+      </p>
+    </div>
+
+    <div style="background: #f5f5f5; border-radius: 15px; padding: 20px; width: 300px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+      <h3 align="center">📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=JaysonDorilag22&show_icons=true&theme=radical" />
+    </div>
+
+  </div>
 </div>
 
 ---
