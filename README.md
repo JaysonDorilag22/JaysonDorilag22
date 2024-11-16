@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jayson Dorilag
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300F709&size=25&center=true&vCenter=true&lines=Hi+there!+I+am+Jayson+Dorilag;A+MERN+Stack+Developer!" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300F709&size=25&center=true&vCenter=true&lines=Hi+there!+I+am+Jayson+Dorilag;A+MERN+Stack+Developer!](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&pause=1000&color=000FC0&width=435&lines=Hi+there!+I+am+Json" alt="Typing SVG)" />
 </div>
 
 ---
