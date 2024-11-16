@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ### 🌱 Currently Learning
 - Advanced **React Native** for mobile development  
 - Optimizing **real-time communication systems** using Socket.IO  
