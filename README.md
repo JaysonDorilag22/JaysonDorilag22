@@ -69,13 +69,13 @@ I'm a 4th-year BSIT student at **TUP Taguig**, specializing in **MERN stack deve
 ### 📫 Let's Connect!
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail Logo" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=ffffff" alt="Gmail Logo" width="50"/>
   </a>
   <a href="https://github.com/JaysonDorilag22">
-    <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000" alt="GitHub Logo" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=ffffff" alt="GitHub Logo" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Logo" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=ffffff" alt="LinkedIn Logo" width="50"/>
   </a>
 </div>
 
