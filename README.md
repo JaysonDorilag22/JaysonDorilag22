@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Jayson Dorilag
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;Web+%26+Mobile+App+Builder;Passionate+About+Problem-Solving" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A4D68&width=435&lines=MERN+Stack+Developer;Web+%26+Mobile+App+Builder;Passionate+About+Problem-Solving" alt="Typing SVG">
 </div>
 
 ---
@@ -49,7 +49,7 @@ I'm a 4th-year BSIT student at **TUP Taguig**, specializing in **MERN stack deve
 ### 🌟 Current Project
 <div align="center">
   <a href="https://github.com/JaysonDorilag22/AgapayAlert">
-    <img src="https://img.shields.io/badge/Agapay%20Alert-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Agapay Alert Badge">
+    <img src="https://img.shields.io/badge/Agapay%20Alert-0A4D68?style=for-the-badge&logo=github&logoColor=white" alt="Agapay Alert Badge">
   </a>
   <br>
   <p>A missing person reporting app inspired by Amber Alert, focusing on community safety and real-time notifications.</p>
@@ -59,18 +59,24 @@ I'm a 4th-year BSIT student at **TUP Taguig**, specializing in **MERN stack deve
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaysonDorilag22&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JaysonDorilag22&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaysonDorilag22&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaysonDorilag22&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JaysonDorilag22&theme=blueberry&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaysonDorilag22&layout=compact&theme=blueberry" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📫 Let's Connect!
 <div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://github.com/JaysonDorilag22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/ios-filled/50/0A4D68/gmail-new.png" alt="Gmail Logo" width="50"/>
+  </a>
+  <a href="https://github.com/JaysonDorilag22">
+    <img src="https://img.icons8.com/ios-filled/50/0A4D68/github.png" alt="GitHub Logo" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.icons8.com/ios-filled/50/0A4D68/linkedin.png" alt="LinkedIn Logo" width="50"/>
+  </a>
 </div>
 
 ---
